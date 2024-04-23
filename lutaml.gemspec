@@ -39,7 +39,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "equivalent-xml", '~> 0.6.0'
   spec.add_development_dependency "bundler", "~> 2.0"
   spec.add_development_dependency "pry", "~> 0.12.2"
-  spec.add_development_dependency "rake", "~> 11.0"
+  spec.add_development_dependency "rake"
   spec.add_development_dependency "rspec", "~> 3.0"
   spec.add_development_dependency "rubocop", "~> 1.54.0"
   spec.add_development_dependency "rubocop-performance", "~> 1.19"
